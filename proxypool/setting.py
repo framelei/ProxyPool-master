@@ -30,8 +30,8 @@ TEST_URL = 'https://www.fang.com/SoufunFamily.htm'
 # API配置
 # 4个0代表任意ip均可访问，此处勿动，写死
 API_HOST = '0.0.0.0'
-API_PORT = 5556
-# http://127.0.0.1:5556/random
+API_PORT = 5557
+# http://127.0.0.1:5557/random
 
 # 开关
 GETTER_ENABLED = True
