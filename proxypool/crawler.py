@@ -25,7 +25,7 @@ class Crawler(object, metaclass=ProxyMetaclass):
         return proxies
 
     def crawl_xdaili(self):
-        url = 'http://api.xdaili.cn/xdaili-api//greatRecharge/getGreatIp?spiderId=f5f6c78087e440d5ac874264e9c0bc57&orderno=YZ2019862398AlA8PJ&returnType=2&count=10'
+        url = 'http://api.xdaili.cn/xdaili-api//greatRecharge/getGreatIp?spiderId=f5f6c78087e440d5ac874264e9c0bc57&orderno=YZ2019862398AlA8PJ&returnType=2&count=20'
         html = get_page(url)
         if html:
             result = json.loads(html)
