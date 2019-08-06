@@ -24,6 +24,9 @@ TESTER_CYCLE = 20
 # 获取周期
 GETTER_CYCLE = 300
 
+# 购买的讯代理url
+XDAILI_URL = 'http://api.xdaili.cn/xdaili-api//greatRecharge/getGreatIp?spiderId=f5f6c78087e440d5ac874264e9c0bc57&orderno=YZ2019862398AlA8PJ&returnType=2&count=20'
+
 # 测试API，建议抓哪个网站测哪个
 TEST_URL = 'https://www.fang.com/SoufunFamily.htm'
 
