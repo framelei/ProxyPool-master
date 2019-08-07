@@ -28,7 +28,7 @@ GETTER_CYCLE = 300
 XDAILI_URL = 'http://api.xdaili.cn/xdaili-api//greatRecharge/getGreatIp?spiderId=f5f6c78087e440d5ac874264e9c0bc57&orderno=YZ2019862398AlA8PJ&returnType=2&count=20'
 
 # 测试API，建议抓哪个网站测哪个
-TEST_URL = 'https://www.fang.com/SoufunFamily.htm'
+TEST_URL = 'https://m.weibo.cn/'
 
 # API配置
 # 4个0代表任意ip均可访问，此处勿动，写死
