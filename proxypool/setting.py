@@ -24,8 +24,8 @@ TESTER_CYCLE = 20
 # 获取周期
 GETTER_CYCLE = 300
 
-# 购买的讯代理url
-XDAILI_URL = 'http://api.xdaili.cn/xdaili-api//greatRecharge/getGreatIp?spiderId=c23b29ea0b5d419ea9144285db1aae12&orderno=YZ2019883473RfEY8v&returnType=2&count=20'
+# 购买的讯代理url，按量
+XDAILI_URL = 'http://api.xdaili.cn/xdaili-api//greatRecharge/getGreatIp?spiderId=c23b29ea0b5d419ea9144285db1aae12&orderno=YZ20198126808AQLmHi&returnType=2&count=20'
 
 # 测试API，建议抓哪个网站测哪个
 TEST_URL = 'https://m.weibo.cn/'
